@@ -1,0 +1,14 @@
+form {
+  width: 300px;
+  margin-top: 20px;
+  display: inline-block;
+  padding: 25px;
+  background-color: rgb(107, 190, 245);
+}
+form label {
+  display: inline-block;
+  width: 100px;
+}
+form div {
+  margin: 10px;
+}
